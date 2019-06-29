@@ -1,10 +1,12 @@
 {
   "hard" : [
   {
+    "name":"JOB2",
     "cpu" : "90",
     "speed" : "10"
   },
   {
+    "name":"JOB1",
     "cpu" : "30",
     "speed" : "77"
   }
