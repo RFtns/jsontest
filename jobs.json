@@ -1,0 +1,12 @@
+{
+    "job" : [
+    {
+      "name" : "JOB1",
+      "action" : "ex"
+    },
+    {
+      "name" : "JOB2",
+      "action" : "wt"
+    }
+  ]
+}

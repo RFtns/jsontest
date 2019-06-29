@@ -1,0 +1,12 @@
+{
+  "servers" : [
+  {
+    "id" : "aaa",
+    "os" : "bbb"
+  },
+  {
+    "id" : "ccc",
+    "os" : "ddd"
+  }
+]
+}
